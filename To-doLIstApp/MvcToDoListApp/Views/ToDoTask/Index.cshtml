@@ -1,0 +1,61 @@
+﻿@model List<ToDoTask>
+
+@{
+    ViewData["Title"] = "To-Do List";
+}
+
+<div class="container mt-5">
+   
+    <div class="d-flex justify-content-between mb-4">
+        <h1>My To-Do List</h1>
+        <div>
+            
+            <a asp-controller="ToDoTask" asp-action="AddNewTask" class="btn btn-primary">Add Task</a>
+           
+            <a asp-controller="ToDoTask" asp-action="DeleteAllTasks" class="btn btn-danger">Delete All Tasks</a>
+           
+            <form asp-controller="ToDoTask" asp-action="Logout" class="d-inline">
+                <button type="submit" class="btn btn-secondary">Logout</button>
+            </form>
+        </div>
+    </div>
+
+   
+    <form method="post" asp-action="UpdateStatus">
+        @for (int i = 0; i < Model.Count; i++)
+        {
+            <div class="card mb-3">
+                <div class="card-body">
+                    <div class="d-flex justify-content-between">
+                        <div class="form-check">
+                          
+                            <input type="hidden" asp-for="@Model[i].Id" />
+                            
+                            <input type="checkbox" asp-for="@Model[i].IsCompleted" class="form-check-input" />
+                            <label class="form-check-label" for="IsCompleted">@Model[i].Title</label>
+                        </div>
+
+                        <div>
+                            
+                            <a class="btn btn-warning btn-sm" asp-action="EditTask" asp-route-taskId="@Model[i].Id">Edit</a>
+                           
+                            <a class="btn btn-danger btn-sm" asp-action="DeleteTask" asp-route-taskId="@Model[i].Id">Delete</a>
+                        </div>
+                    </div>
+
+                    
+                    <div class="collapse" id="description-@Model[i].Id">
+                        <p class="mt-3">@Model[i].Description</p>
+                    </div>
+                    <button class="btn btn-info btn-sm mt-3" type="button" data-bs-toggle="collapse" data-bs-target="#description-@Model[i].Id" aria-expanded="false" aria-controls="description-@Model[i].Id">Expand Description</button>
+                </div>
+            </div>
+        }
+
+       
+        <div class="d-flex justify-content-center mt-4">
+            <button type="submit" class="btn btn-primary w-25">Save Status</button>
+        </div>
+    </form>
+</div>
+

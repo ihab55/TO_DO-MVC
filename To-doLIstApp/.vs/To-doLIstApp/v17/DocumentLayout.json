@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Courses\\NewProjects\\To-doLIstApp (3)\\To-doLIstApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46C182D1-B2D0-4186-A551-04CE29F5728C}|MvcToDoListApp\\MvcToDoListApp.csproj|d:\\courses\\newprojects\\to-dolistapp (3)\\to-dolistapp\\mvctodolistapp\\services\\usercrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C182D1-B2D0-4186-A551-04CE29F5728C}|MvcToDoListApp\\MvcToDoListApp.csproj|solutionrelative:mvctodolistapp\\services\\usercrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C182D1-B2D0-4186-A551-04CE29F5728C}|MvcToDoListApp\\MvcToDoListApp.csproj|d:\\courses\\newprojects\\to-dolistapp (3)\\to-dolistapp\\mvctodolistapp\\controllers\\todotaskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C182D1-B2D0-4186-A551-04CE29F5728C}|MvcToDoListApp\\MvcToDoListApp.csproj|solutionrelative:mvctodolistapp\\controllers\\todotaskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C182D1-B2D0-4186-A551-04CE29F5728C}|MvcToDoListApp\\MvcToDoListApp.csproj|d:\\courses\\newprojects\\to-dolistapp (3)\\to-dolistapp\\mvctodolistapp\\views\\todotask\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46C182D1-B2D0-4186-A551-04CE29F5728C}|MvcToDoListApp\\MvcToDoListApp.csproj|solutionrelative:mvctodolistapp\\views\\todotask\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C182D1-B2D0-4186-A551-04CE29F5728C}|MvcToDoListApp\\MvcToDoListApp.csproj|d:\\courses\\newprojects\\to-dolistapp (3)\\to-dolistapp\\mvctodolistapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C182D1-B2D0-4186-A551-04CE29F5728C}|MvcToDoListApp\\MvcToDoListApp.csproj|solutionrelative:mvctodolistapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C182D1-B2D0-4186-A551-04CE29F5728C}|MvcToDoListApp\\MvcToDoListApp.csproj|d:\\courses\\newprojects\\to-dolistapp (3)\\to-dolistapp\\mvctodolistapp\\views\\todotask\\addnewtask.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46C182D1-B2D0-4186-A551-04CE29F5728C}|MvcToDoListApp\\MvcToDoListApp.csproj|solutionrelative:mvctodolistapp\\views\\todotask\\addnewtask.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C182D1-B2D0-4186-A551-04CE29F5728C}|MvcToDoListApp\\MvcToDoListApp.csproj|d:\\courses\\newprojects\\to-dolistapp (3)\\to-dolistapp\\mvctodolistapp\\services\\loginlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C182D1-B2D0-4186-A551-04CE29F5728C}|MvcToDoListApp\\MvcToDoListApp.csproj|solutionrelative:mvctodolistapp\\services\\loginlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ToDoTaskController.cs",
+              "DocumentMoniker": "D:\\Courses\\NewProjects\\To-doLIstApp (3)\\To-doLIstApp\\MvcToDoListApp\\Controllers\\ToDoTaskController.cs",
+              "RelativeDocumentMoniker": "MvcToDoListApp\\Controllers\\ToDoTaskController.cs",
+              "ToolTip": "D:\\Courses\\NewProjects\\To-doLIstApp (3)\\To-doLIstApp\\MvcToDoListApp\\Controllers\\ToDoTaskController.cs",
+              "RelativeToolTip": "MvcToDoListApp\\Controllers\\ToDoTaskController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAswDQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T20:59:48.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Courses\\NewProjects\\To-doLIstApp (3)\\To-doLIstApp\\MvcToDoListApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MvcToDoListApp\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Courses\\NewProjects\\To-doLIstApp (3)\\To-doLIstApp\\MvcToDoListApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MvcToDoListApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T20:59:41.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Courses\\NewProjects\\To-doLIstApp (3)\\To-doLIstApp\\MvcToDoListApp\\Views\\ToDoTask\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcToDoListApp\\Views\\ToDoTask\\Index.cshtml",
+              "ToolTip": "D:\\Courses\\NewProjects\\To-doLIstApp (3)\\To-doLIstApp\\MvcToDoListApp\\Views\\ToDoTask\\Index.cshtml",
+              "RelativeToolTip": "MvcToDoListApp\\Views\\ToDoTask\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACkAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-09T20:56:39.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddNewTask.cshtml",
+              "DocumentMoniker": "D:\\Courses\\NewProjects\\To-doLIstApp (3)\\To-doLIstApp\\MvcToDoListApp\\Views\\ToDoTask\\AddNewTask.cshtml",
+              "RelativeDocumentMoniker": "MvcToDoListApp\\Views\\ToDoTask\\AddNewTask.cshtml",
+              "ToolTip": "D:\\Courses\\NewProjects\\To-doLIstApp (3)\\To-doLIstApp\\MvcToDoListApp\\Views\\ToDoTask\\AddNewTask.cshtml",
+              "RelativeToolTip": "MvcToDoListApp\\Views\\ToDoTask\\AddNewTask.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-09T20:56:38.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserCRUD.cs",
+              "DocumentMoniker": "D:\\Courses\\NewProjects\\To-doLIstApp (3)\\To-doLIstApp\\MvcToDoListApp\\Services\\UserCRUD.cs",
+              "RelativeDocumentMoniker": "MvcToDoListApp\\Services\\UserCRUD.cs",
+              "ToolTip": "D:\\Courses\\NewProjects\\To-doLIstApp (3)\\To-doLIstApp\\MvcToDoListApp\\Services\\UserCRUD.cs",
+              "RelativeToolTip": "MvcToDoListApp\\Services\\UserCRUD.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAwwCwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T19:14:12.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginLogic.cs",
+              "DocumentMoniker": "D:\\Courses\\NewProjects\\To-doLIstApp (3)\\To-doLIstApp\\MvcToDoListApp\\Services\\LoginLogic.cs",
+              "RelativeDocumentMoniker": "MvcToDoListApp\\Services\\LoginLogic.cs",
+              "ToolTip": "D:\\Courses\\NewProjects\\To-doLIstApp (3)\\To-doLIstApp\\MvcToDoListApp\\Services\\LoginLogic.cs",
+              "RelativeToolTip": "MvcToDoListApp\\Services\\LoginLogic.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T19:13:53.015Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1498,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
